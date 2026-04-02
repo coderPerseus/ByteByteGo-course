@@ -1,0 +1,133 @@
+{
+  "title": "Machine Learning System Design Interview",
+  "card": {
+    "position": 6,
+    "title": "Machine Learning System Design Interview",
+    "text": "11\nLessons\n25,000\nLearners",
+    "lessonsText": "11",
+    "comingSoon": false
+  },
+  "opened": {
+    "url": "https://bytebytego.com/courses/machine-learning-system-design-interview",
+    "courseTitle": "Machine Learning System Design Interview"
+  },
+  "outline": {
+    "courseTitle": "Machine Learning System Design Interview",
+    "progress": "",
+    "lessons": [
+      {
+        "index": 1,
+        "title": "01Introduction and Overview",
+        "path": "/courses/machine-learning-system-design-interview/introduction-and-overview"
+      },
+      {
+        "index": 2,
+        "title": "02Visual Search System",
+        "path": "/courses/machine-learning-system-design-interview/visual-search-system"
+      },
+      {
+        "index": 3,
+        "title": "03Google Street View Blurring System",
+        "path": "/courses/machine-learning-system-design-interview/google-street-view-blurring-system"
+      },
+      {
+        "index": 4,
+        "title": "04YouTube Video Search",
+        "path": "/courses/machine-learning-system-design-interview/youtube-video-search"
+      },
+      {
+        "index": 5,
+        "title": "05Harmful Content Detection",
+        "path": "/courses/machine-learning-system-design-interview/harmful-content-detection"
+      },
+      {
+        "index": 6,
+        "title": "06Video Recommendation System",
+        "path": "/courses/machine-learning-system-design-interview/video-recommendation-system"
+      },
+      {
+        "index": 7,
+        "title": "07Event Recommendation System",
+        "path": "/courses/machine-learning-system-design-interview/event-recommendation-system"
+      },
+      {
+        "index": 8,
+        "title": "08Ad Click Prediction on Social Platforms",
+        "path": "/courses/machine-learning-system-design-interview/ad-click-prediction-on-social-platforms"
+      },
+      {
+        "index": 9,
+        "title": "09Similar Listings on Vacation Rental Platforms",
+        "path": "/courses/machine-learning-system-design-interview/similar-listings-on-vacation-rental-platforms"
+      },
+      {
+        "index": 10,
+        "title": "10Personalized News Feed",
+        "path": "/courses/machine-learning-system-design-interview/personalized-news-feed"
+      },
+      {
+        "index": 11,
+        "title": "11People You May Know",
+        "path": "/courses/machine-learning-system-design-interview/people-you-may-know"
+      }
+    ]
+  },
+  "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/Machine Learning System Design Interview.md",
+  "lessons": [
+    {
+      "title": "Introduction and Overview",
+      "url": "https://bytebytego.com/courses/machine-learning-system-design-interview/introduction-and-overview",
+      "path": "/courses/machine-learning-system-design-interview/introduction-and-overview"
+    },
+    {
+      "title": "Visual Search System",
+      "url": "https://bytebytego.com/courses/machine-learning-system-design-interview/visual-search-system",
+      "path": "/courses/machine-learning-system-design-interview/visual-search-system"
+    },
+    {
+      "title": "Google Street View Blurring System",
+      "url": "https://bytebytego.com/courses/machine-learning-system-design-interview/google-street-view-blurring-system",
+      "path": "/courses/machine-learning-system-design-interview/google-street-view-blurring-system"
+    },
+    {
+      "title": "YouTube Video Search",
+      "url": "https://bytebytego.com/courses/machine-learning-system-design-interview/youtube-video-search",
+      "path": "/courses/machine-learning-system-design-interview/youtube-video-search"
+    },
+    {
+      "title": "Harmful Content Detection",
+      "url": "https://bytebytego.com/courses/machine-learning-system-design-interview/harmful-content-detection",
+      "path": "/courses/machine-learning-system-design-interview/harmful-content-detection"
+    },
+    {
+      "title": "Video Recommendation System",
+      "url": "https://bytebytego.com/courses/machine-learning-system-design-interview/video-recommendation-system",
+      "path": "/courses/machine-learning-system-design-interview/video-recommendation-system"
+    },
+    {
+      "title": "Event Recommendation System",
+      "url": "https://bytebytego.com/courses/machine-learning-system-design-interview/event-recommendation-system",
+      "path": "/courses/machine-learning-system-design-interview/event-recommendation-system"
+    },
+    {
+      "title": "Ad Click Prediction on Social Platforms",
+      "url": "https://bytebytego.com/courses/machine-learning-system-design-interview/ad-click-prediction-on-social-platforms",
+      "path": "/courses/machine-learning-system-design-interview/ad-click-prediction-on-social-platforms"
+    },
+    {
+      "title": "Similar Listings on Vacation Rental Platforms",
+      "url": "https://bytebytego.com/courses/machine-learning-system-design-interview/similar-listings-on-vacation-rental-platforms",
+      "path": "/courses/machine-learning-system-design-interview/similar-listings-on-vacation-rental-platforms"
+    },
+    {
+      "title": "Personalized News Feed",
+      "url": "https://bytebytego.com/courses/machine-learning-system-design-interview/personalized-news-feed",
+      "path": "/courses/machine-learning-system-design-interview/personalized-news-feed"
+    },
+    {
+      "title": "People You May Know",
+      "url": "https://bytebytego.com/courses/machine-learning-system-design-interview/people-you-may-know",
+      "path": "/courses/machine-learning-system-design-interview/people-you-may-know"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "title": "Generative AI System Design Interview",
+  "card": {
+    "position": 8,
+    "title": "Generative AI System Design Interview",
+    "text": "11\nLessons\n10,000\nLearners",
+    "lessonsText": "11",
+    "comingSoon": false
+  },
+  "opened": {
+    "url": "https://bytebytego.com/courses/genai-system-design-interview",
+    "courseTitle": "Generative AI System Design Interview"
+  },
+  "outline": {
+    "courseTitle": "Generative AI System Design Interview",
+    "progress": "",
+    "lessons": [
+      {
+        "index": 1,
+        "title": "01Introduction and Overview",
+        "path": "/courses/genai-system-design-interview/introduction-and-overview"
+      },
+      {
+        "index": 2,
+        "title": "02Gmail Smart Compose",
+        "path": "/courses/genai-system-design-interview/gmail-smart-compose"
+      },
+      {
+        "index": 3,
+        "title": "03Google Translate",
+        "path": "/courses/genai-system-design-interview/google-translate"
+      },
+      {
+        "index": 4,
+        "title": "04ChatGPT: Personal Assistant Chatbot",
+        "path": "/courses/genai-system-design-interview/chatgpt-personal-assistant-chatbot"
+      },
+      {
+        "index": 5,
+        "title": "05Image Captioning",
+        "path": "/courses/genai-system-design-interview/image-captioning"
+      },
+      {
+        "index": 6,
+        "title": "06Retrieval-Augmented Generation",
+        "path": "/courses/genai-system-design-interview/retrieval-augmented-generation"
+      },
+      {
+        "index": 7,
+        "title": "07Realistic Face Generation",
+        "path": "/courses/genai-system-design-interview/realistic-face-generation"
+      },
+      {
+        "index": 8,
+        "title": "08High-Resolution Image Synthesis",
+        "path": "/courses/genai-system-design-interview/high-resolution-image-synthesis"
+      },
+      {
+        "index": 9,
+        "title": "09Text-to-Image Generation",
+        "path": "/courses/genai-system-design-interview/text-to-image-generation"
+      },
+      {
+        "index": 10,
+        "title": "10Personalized Headshot Generation",
+        "path": "/courses/genai-system-design-interview/personalized-headshot-generation"
+      },
+      {
+        "index": 11,
+        "title": "11Text-to-Video Generation",
+        "path": "/courses/genai-system-design-interview/text-to-video-generation"
+      }
+    ]
+  },
+  "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/Generative AI System Design Interview.md",
+  "lessons": [
+    {
+      "title": "Introduction and Overview",
+      "url": "https://bytebytego.com/courses/genai-system-design-interview/introduction-and-overview",
+      "path": "/courses/genai-system-design-interview/introduction-and-overview"
+    },
+    {
+      "title": "Gmail Smart Compose",
+      "url": "https://bytebytego.com/courses/genai-system-design-interview/gmail-smart-compose",
+      "path": "/courses/genai-system-design-interview/gmail-smart-compose"
+    },
+    {
+      "title": "Google Translate",
+      "url": "https://bytebytego.com/courses/genai-system-design-interview/google-translate",
+      "path": "/courses/genai-system-design-interview/google-translate"
+    },
+    {
+      "title": "ChatGPT: Personal Assistant Chatbot",
+      "url": "https://bytebytego.com/courses/genai-system-design-interview/chatgpt-personal-assistant-chatbot",
+      "path": "/courses/genai-system-design-interview/chatgpt-personal-assistant-chatbot"
+    },
+    {
+      "title": "Image Captioning",
+      "url": "https://bytebytego.com/courses/genai-system-design-interview/image-captioning",
+      "path": "/courses/genai-system-design-interview/image-captioning"
+    },
+    {
+      "title": "Retrieval-Augmented Generation",
+      "url": "https://bytebytego.com/courses/genai-system-design-interview/retrieval-augmented-generation",
+      "path": "/courses/genai-system-design-interview/retrieval-augmented-generation"
+    },
+    {
+      "title": "Realistic Face Generation",
+      "url": "https://bytebytego.com/courses/genai-system-design-interview/realistic-face-generation",
+      "path": "/courses/genai-system-design-interview/realistic-face-generation"
+    },
+    {
+      "title": "High-Resolution Image Synthesis",
+      "url": "https://bytebytego.com/courses/genai-system-design-interview/high-resolution-image-synthesis",
+      "path": "/courses/genai-system-design-interview/high-resolution-image-synthesis"
+    },
+    {
+      "title": "Text-to-Image Generation",
+      "url": "https://bytebytego.com/courses/genai-system-design-interview/text-to-image-generation",
+      "path": "/courses/genai-system-design-interview/text-to-image-generation"
+    },
+    {
+      "title": "Personalized Headshot Generation",
+      "url": "https://bytebytego.com/courses/genai-system-design-interview/personalized-headshot-generation",
+      "path": "/courses/genai-system-design-interview/personalized-headshot-generation"
+    },
+    {
+      "title": "Text-to-Video Generation",
+      "url": "https://bytebytego.com/courses/genai-system-design-interview/text-to-video-generation",
+      "path": "/courses/genai-system-design-interview/text-to-video-generation"
+    }
+  ]
+}

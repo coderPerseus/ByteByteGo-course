@@ -1,0 +1,333 @@
+{
+  "title": "System Design Interview",
+  "card": {
+    "position": 3,
+    "title": "System Design Interview",
+    "text": "30\nLessons\n250,000\nLearners",
+    "lessonsText": "30",
+    "comingSoon": false
+  },
+  "opened": {
+    "url": "https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users",
+    "courseTitle": "System Design Interview"
+  },
+  "outline": {
+    "courseTitle": "System Design Interview",
+    "progress": "",
+    "lessons": [
+      {
+        "index": 1,
+        "title": "00Foreword",
+        "path": "/courses/system-design-interview/foreword"
+      },
+      {
+        "index": 2,
+        "title": "01Join the Community",
+        "path": "/courses/system-design-interview/join-discord-community"
+      },
+      {
+        "index": 3,
+        "title": "02Scale From Zero To Millions Of Users",
+        "path": "/courses/system-design-interview/scale-from-zero-to-millions-of-users"
+      },
+      {
+        "index": 4,
+        "title": "03Back-of-the-envelope Estimation",
+        "path": "/courses/system-design-interview/back-of-the-envelope-estimation"
+      },
+      {
+        "index": 5,
+        "title": "04A Framework For System Design Interviews",
+        "path": "/courses/system-design-interview/a-framework-for-system-design-interviews"
+      },
+      {
+        "index": 6,
+        "title": "05Design A Rate Limiter",
+        "path": "/courses/system-design-interview/design-a-rate-limiter"
+      },
+      {
+        "index": 7,
+        "title": "06Design Consistent Hashing",
+        "path": "/courses/system-design-interview/design-consistent-hashing"
+      },
+      {
+        "index": 8,
+        "title": "07Design A Key-value Store",
+        "path": "/courses/system-design-interview/design-a-key-value-store"
+      },
+      {
+        "index": 9,
+        "title": "08Design A Unique ID Generator In Distributed Systems",
+        "path": "/courses/system-design-interview/design-a-unique-id-generator-in-distributed-systems"
+      },
+      {
+        "index": 10,
+        "title": "09Design A URL Shortener",
+        "path": "/courses/system-design-interview/design-a-url-shortener"
+      },
+      {
+        "index": 11,
+        "title": "10Design A Web Crawler",
+        "path": "/courses/system-design-interview/design-a-web-crawler"
+      },
+      {
+        "index": 12,
+        "title": "11Design A Notification System",
+        "path": "/courses/system-design-interview/design-a-notification-system"
+      },
+      {
+        "index": 13,
+        "title": "12Design A News Feed System",
+        "path": "/courses/system-design-interview/design-a-news-feed-system"
+      },
+      {
+        "index": 14,
+        "title": "13Design A Chat System",
+        "path": "/courses/system-design-interview/design-a-chat-system"
+      },
+      {
+        "index": 15,
+        "title": "14Design A Search Autocomplete System",
+        "path": "/courses/system-design-interview/design-a-search-autocomplete-system"
+      },
+      {
+        "index": 16,
+        "title": "15Design YouTube",
+        "path": "/courses/system-design-interview/design-youtube"
+      },
+      {
+        "index": 17,
+        "title": "16Design Google Drive",
+        "path": "/courses/system-design-interview/design-google-drive"
+      },
+      {
+        "index": 18,
+        "title": "17Proximity Service",
+        "path": "/courses/system-design-interview/proximity-service"
+      },
+      {
+        "index": 19,
+        "title": "18Nearby Friends",
+        "path": "/courses/system-design-interview/nearby-friends"
+      },
+      {
+        "index": 20,
+        "title": "19Google Maps",
+        "path": "/courses/system-design-interview/google-maps"
+      },
+      {
+        "index": 21,
+        "title": "20Distributed Message Queue",
+        "path": "/courses/system-design-interview/distributed-message-queue"
+      },
+      {
+        "index": 22,
+        "title": "21Metrics Monitoring and Alerting System",
+        "path": "/courses/system-design-interview/metrics-monitoring-and-alerting-system"
+      },
+      {
+        "index": 23,
+        "title": "22Ad Click Event Aggregation",
+        "path": "/courses/system-design-interview/ad-click-event-aggregation"
+      },
+      {
+        "index": 24,
+        "title": "23Hotel Reservation System",
+        "path": "/courses/system-design-interview/hotel-reservation-system"
+      },
+      {
+        "index": 25,
+        "title": "24Distributed Email Service",
+        "path": "/courses/system-design-interview/distributed-email-service"
+      },
+      {
+        "index": 26,
+        "title": "25S3-like Object Storage",
+        "path": "/courses/system-design-interview/s3-like-object-storage"
+      },
+      {
+        "index": 27,
+        "title": "26Real-time Gaming Leaderboard",
+        "path": "/courses/system-design-interview/real-time-gaming-leaderboard"
+      },
+      {
+        "index": 28,
+        "title": "27Payment System",
+        "path": "/courses/system-design-interview/payment-system"
+      },
+      {
+        "index": 29,
+        "title": "28Digital Wallet",
+        "path": "/courses/system-design-interview/digital-wallet"
+      },
+      {
+        "index": 30,
+        "title": "29Stock Exchange",
+        "path": "/courses/system-design-interview/stock-exchange"
+      },
+      {
+        "index": 31,
+        "title": "30The Learning Continues",
+        "path": "/courses/system-design-interview/the-learning-continues"
+      }
+    ]
+  },
+  "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/System Design Interview.md",
+  "lessons": [
+    {
+      "title": "Foreword",
+      "url": "https://bytebytego.com/courses/system-design-interview/foreword",
+      "path": "/courses/system-design-interview/foreword"
+    },
+    {
+      "title": "Join the Community",
+      "url": "https://bytebytego.com/courses/system-design-interview/join-discord-community",
+      "path": "/courses/system-design-interview/join-discord-community"
+    },
+    {
+      "title": "Scale From Zero To Millions Of Users",
+      "url": "https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users",
+      "path": "/courses/system-design-interview/scale-from-zero-to-millions-of-users"
+    },
+    {
+      "title": "Back-of-the-envelope Estimation",
+      "url": "https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation",
+      "path": "/courses/system-design-interview/back-of-the-envelope-estimation"
+    },
+    {
+      "title": "A Framework For System Design Interviews",
+      "url": "https://bytebytego.com/courses/system-design-interview/a-framework-for-system-design-interviews",
+      "path": "/courses/system-design-interview/a-framework-for-system-design-interviews"
+    },
+    {
+      "title": "Design A Rate Limiter",
+      "url": "https://bytebytego.com/courses/system-design-interview/design-a-rate-limiter",
+      "path": "/courses/system-design-interview/design-a-rate-limiter"
+    },
+    {
+      "title": "Design Consistent Hashing",
+      "url": "https://bytebytego.com/courses/system-design-interview/design-consistent-hashing",
+      "path": "/courses/system-design-interview/design-consistent-hashing"
+    },
+    {
+      "title": "Design A Key-value Store",
+      "url": "https://bytebytego.com/courses/system-design-interview/design-a-key-value-store",
+      "path": "/courses/system-design-interview/design-a-key-value-store"
+    },
+    {
+      "title": "Design A Unique ID Generator In Distributed Systems",
+      "url": "https://bytebytego.com/courses/system-design-interview/design-a-unique-id-generator-in-distributed-systems",
+      "path": "/courses/system-design-interview/design-a-unique-id-generator-in-distributed-systems"
+    },
+    {
+      "title": "Design A URL Shortener",
+      "url": "https://bytebytego.com/courses/system-design-interview/design-a-url-shortener",
+      "path": "/courses/system-design-interview/design-a-url-shortener"
+    },
+    {
+      "title": "Design A Web Crawler",
+      "url": "https://bytebytego.com/courses/system-design-interview/design-a-web-crawler",
+      "path": "/courses/system-design-interview/design-a-web-crawler"
+    },
+    {
+      "title": "Design A Notification System",
+      "url": "https://bytebytego.com/courses/system-design-interview/design-a-notification-system",
+      "path": "/courses/system-design-interview/design-a-notification-system"
+    },
+    {
+      "title": "Design A News Feed System",
+      "url": "https://bytebytego.com/courses/system-design-interview/design-a-news-feed-system",
+      "path": "/courses/system-design-interview/design-a-news-feed-system"
+    },
+    {
+      "title": "Design A Chat System",
+      "url": "https://bytebytego.com/courses/system-design-interview/design-a-chat-system",
+      "path": "/courses/system-design-interview/design-a-chat-system"
+    },
+    {
+      "title": "Design A Search Autocomplete System",
+      "url": "https://bytebytego.com/courses/system-design-interview/design-a-search-autocomplete-system",
+      "path": "/courses/system-design-interview/design-a-search-autocomplete-system"
+    },
+    {
+      "title": "Design YouTube",
+      "url": "https://bytebytego.com/courses/system-design-interview/design-youtube",
+      "path": "/courses/system-design-interview/design-youtube"
+    },
+    {
+      "title": "Design Google Drive",
+      "url": "https://bytebytego.com/courses/system-design-interview/design-google-drive",
+      "path": "/courses/system-design-interview/design-google-drive"
+    },
+    {
+      "title": "Proximity Service",
+      "url": "https://bytebytego.com/courses/system-design-interview/proximity-service",
+      "path": "/courses/system-design-interview/proximity-service"
+    },
+    {
+      "title": "Nearby Friends",
+      "url": "https://bytebytego.com/courses/system-design-interview/nearby-friends",
+      "path": "/courses/system-design-interview/nearby-friends"
+    },
+    {
+      "title": "Google Maps",
+      "url": "https://bytebytego.com/courses/system-design-interview/google-maps",
+      "path": "/courses/system-design-interview/google-maps"
+    },
+    {
+      "title": "Distributed Message Queue",
+      "url": "https://bytebytego.com/courses/system-design-interview/distributed-message-queue",
+      "path": "/courses/system-design-interview/distributed-message-queue"
+    },
+    {
+      "title": "Metrics Monitoring and Alerting System",
+      "url": "https://bytebytego.com/courses/system-design-interview/metrics-monitoring-and-alerting-system",
+      "path": "/courses/system-design-interview/metrics-monitoring-and-alerting-system"
+    },
+    {
+      "title": "Ad Click Event Aggregation",
+      "url": "https://bytebytego.com/courses/system-design-interview/ad-click-event-aggregation",
+      "path": "/courses/system-design-interview/ad-click-event-aggregation"
+    },
+    {
+      "title": "Hotel Reservation System",
+      "url": "https://bytebytego.com/courses/system-design-interview/hotel-reservation-system",
+      "path": "/courses/system-design-interview/hotel-reservation-system"
+    },
+    {
+      "title": "Distributed Email Service",
+      "url": "https://bytebytego.com/courses/system-design-interview/distributed-email-service",
+      "path": "/courses/system-design-interview/distributed-email-service"
+    },
+    {
+      "title": "S3-like Object Storage",
+      "url": "https://bytebytego.com/courses/system-design-interview/s3-like-object-storage",
+      "path": "/courses/system-design-interview/s3-like-object-storage"
+    },
+    {
+      "title": "Real-time Gaming Leaderboard",
+      "url": "https://bytebytego.com/courses/system-design-interview/real-time-gaming-leaderboard",
+      "path": "/courses/system-design-interview/real-time-gaming-leaderboard"
+    },
+    {
+      "title": "Payment System",
+      "url": "https://bytebytego.com/courses/system-design-interview/payment-system",
+      "path": "/courses/system-design-interview/payment-system"
+    },
+    {
+      "title": "Digital Wallet",
+      "url": "https://bytebytego.com/courses/system-design-interview/digital-wallet",
+      "path": "/courses/system-design-interview/digital-wallet"
+    },
+    {
+      "title": "Stock Exchange",
+      "url": "https://bytebytego.com/courses/system-design-interview/stock-exchange",
+      "path": "/courses/system-design-interview/stock-exchange"
+    },
+    {
+      "title": "The Learning Continues",
+      "url": "https://bytebytego.com/courses/system-design-interview/the-learning-continues",
+      "path": "/courses/system-design-interview/the-learning-continues"
+    }
+  ]
+}

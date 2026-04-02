@@ -1,0 +1,133 @@
+{
+  "title": "Mobile System Design Interview",
+  "card": {
+    "position": 7,
+    "title": "Mobile System Design Interview",
+    "text": "11\nLessons\n1,000\nLearners",
+    "lessonsText": "11",
+    "comingSoon": false
+  },
+  "opened": {
+    "url": "https://bytebytego.com/courses/mobile-system-design-interview",
+    "courseTitle": "Mobile System Design Interview"
+  },
+  "outline": {
+    "courseTitle": "Mobile System Design Interview",
+    "progress": "",
+    "lessons": [
+      {
+        "index": 1,
+        "title": "01Introduction",
+        "path": "/courses/mobile-system-design-interview/introduction"
+      },
+      {
+        "index": 2,
+        "title": "02A framework for Mobile SD interviews",
+        "path": "/courses/mobile-system-design-interview/a-framework-for-mobile-sd-interviews"
+      },
+      {
+        "index": 3,
+        "title": "03News feed app",
+        "path": "/courses/mobile-system-design-interview/news-feed-app"
+      },
+      {
+        "index": 4,
+        "title": "04Chat app",
+        "path": "/courses/mobile-system-design-interview/chat-app"
+      },
+      {
+        "index": 5,
+        "title": "05Stock trading app",
+        "path": "/courses/mobile-system-design-interview/stock-trading-app"
+      },
+      {
+        "index": 6,
+        "title": "06Pagination library",
+        "path": "/courses/mobile-system-design-interview/pagination-library"
+      },
+      {
+        "index": 7,
+        "title": "07Hotel reservation app",
+        "path": "/courses/mobile-system-design-interview/hotel-reservation-app"
+      },
+      {
+        "index": 8,
+        "title": "08Google Drive app",
+        "path": "/courses/mobile-system-design-interview/google-drive-app"
+      },
+      {
+        "index": 9,
+        "title": "09YouTube app",
+        "path": "/courses/mobile-system-design-interview/youtube-app"
+      },
+      {
+        "index": 10,
+        "title": "10Mobile System Design Building Blocks",
+        "path": "/courses/mobile-system-design-interview/mobile-system-design-building-blocks"
+      },
+      {
+        "index": 11,
+        "title": "11Quick Reference Cheat Sheet for MSD Interview",
+        "path": "/courses/mobile-system-design-interview/quick-reference-cheat-sheet-for-msd-interview"
+      }
+    ]
+  },
+  "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/Mobile System Design Interview.md",
+  "lessons": [
+    {
+      "title": "Introduction",
+      "url": "https://bytebytego.com/courses/mobile-system-design-interview/introduction",
+      "path": "/courses/mobile-system-design-interview/introduction"
+    },
+    {
+      "title": "A framework for Mobile SD interviews",
+      "url": "https://bytebytego.com/courses/mobile-system-design-interview/a-framework-for-mobile-sd-interviews",
+      "path": "/courses/mobile-system-design-interview/a-framework-for-mobile-sd-interviews"
+    },
+    {
+      "title": "News feed app",
+      "url": "https://bytebytego.com/courses/mobile-system-design-interview/news-feed-app",
+      "path": "/courses/mobile-system-design-interview/news-feed-app"
+    },
+    {
+      "title": "Chat app",
+      "url": "https://bytebytego.com/courses/mobile-system-design-interview/chat-app",
+      "path": "/courses/mobile-system-design-interview/chat-app"
+    },
+    {
+      "title": "Stock trading app",
+      "url": "https://bytebytego.com/courses/mobile-system-design-interview/stock-trading-app",
+      "path": "/courses/mobile-system-design-interview/stock-trading-app"
+    },
+    {
+      "title": "Pagination library",
+      "url": "https://bytebytego.com/courses/mobile-system-design-interview/pagination-library",
+      "path": "/courses/mobile-system-design-interview/pagination-library"
+    },
+    {
+      "title": "Hotel reservation app",
+      "url": "https://bytebytego.com/courses/mobile-system-design-interview/hotel-reservation-app",
+      "path": "/courses/mobile-system-design-interview/hotel-reservation-app"
+    },
+    {
+      "title": "Google Drive app",
+      "url": "https://bytebytego.com/courses/mobile-system-design-interview/google-drive-app",
+      "path": "/courses/mobile-system-design-interview/google-drive-app"
+    },
+    {
+      "title": "YouTube app",
+      "url": "https://bytebytego.com/courses/mobile-system-design-interview/youtube-app",
+      "path": "/courses/mobile-system-design-interview/youtube-app"
+    },
+    {
+      "title": "Mobile System Design Building Blocks",
+      "url": "https://bytebytego.com/courses/mobile-system-design-interview/mobile-system-design-building-blocks",
+      "path": "/courses/mobile-system-design-interview/mobile-system-design-building-blocks"
+    },
+    {
+      "title": "Quick Reference Cheat Sheet for MSD Interview",
+      "url": "https://bytebytego.com/courses/mobile-system-design-interview/quick-reference-cheat-sheet-for-msd-interview",
+      "path": "/courses/mobile-system-design-interview/quick-reference-cheat-sheet-for-msd-interview"
+    }
+  ]
+}

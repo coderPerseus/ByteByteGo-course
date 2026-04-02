@@ -1,0 +1,93 @@
+{
+  "title": "Coding Interview Patterns",
+  "card": {
+    "position": 2,
+    "title": "Coding Interview Patterns",
+    "text": "101\nLessons\n10,000\nLearners",
+    "lessonsText": "101",
+    "comingSoon": false
+  },
+  "opened": {
+    "url": "https://bytebytego.com/courses/coding-patterns/two-pointers/introduction-to-two-pointers",
+    "courseTitle": "Coding Interview Patterns"
+  },
+  "outline": {
+    "courseTitle": "Coding Interview Patterns",
+    "progress": "0/120 completed",
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Introduction to Two Pointers",
+        "path": "/courses/coding-patterns/two-pointers/introduction-to-two-pointers"
+      },
+      {
+        "index": 2,
+        "title": "Pair Sum - Sorted",
+        "path": "/courses/coding-patterns/two-pointers/pair-sum-sorted"
+      },
+      {
+        "index": 3,
+        "title": "Triplet Sum",
+        "path": "/courses/coding-patterns/two-pointers/triplet-sum"
+      },
+      {
+        "index": 4,
+        "title": "Is Palindrome Valid",
+        "path": "/courses/coding-patterns/two-pointers/is-palindrome-valid"
+      },
+      {
+        "index": 5,
+        "title": "Largest Container",
+        "path": "/courses/coding-patterns/two-pointers/largest-container"
+      },
+      {
+        "index": 6,
+        "title": "Shift Zeros to the End",
+        "path": "/courses/coding-patterns/two-pointers/shift-zeros-to-the-end"
+      },
+      {
+        "index": 7,
+        "title": "Next Lexicographical Sequence",
+        "path": "/courses/coding-patterns/two-pointers/next-lexicographical-sequence"
+      }
+    ]
+  },
+  "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/Coding Interview Patterns.md",
+  "lessons": [
+    {
+      "title": "Introduction to Two Pointers",
+      "url": "https://bytebytego.com/courses/coding-patterns/two-pointers/introduction-to-two-pointers",
+      "path": "/courses/coding-patterns/two-pointers/introduction-to-two-pointers"
+    },
+    {
+      "title": "Pair Sum - Sorted",
+      "url": "https://bytebytego.com/courses/coding-patterns/two-pointers/pair-sum-sorted",
+      "path": "/courses/coding-patterns/two-pointers/pair-sum-sorted"
+    },
+    {
+      "title": "Triplet Sum",
+      "url": "https://bytebytego.com/courses/coding-patterns/two-pointers/triplet-sum",
+      "path": "/courses/coding-patterns/two-pointers/triplet-sum"
+    },
+    {
+      "title": "Is Palindrome Valid",
+      "url": "https://bytebytego.com/courses/coding-patterns/two-pointers/is-palindrome-valid",
+      "path": "/courses/coding-patterns/two-pointers/is-palindrome-valid"
+    },
+    {
+      "title": "Largest Container",
+      "url": "https://bytebytego.com/courses/coding-patterns/two-pointers/largest-container",
+      "path": "/courses/coding-patterns/two-pointers/largest-container"
+    },
+    {
+      "title": "Shift Zeros to the End",
+      "url": "https://bytebytego.com/courses/coding-patterns/two-pointers/shift-zeros-to-the-end",
+      "path": "/courses/coding-patterns/two-pointers/shift-zeros-to-the-end"
+    },
+    {
+      "title": "Next Lexicographical Sequence",
+      "url": "https://bytebytego.com/courses/coding-patterns/two-pointers/next-lexicographical-sequence",
+      "path": "/courses/coding-patterns/two-pointers/next-lexicographical-sequence"
+    }
+  ]
+}

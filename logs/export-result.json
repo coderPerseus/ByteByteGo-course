@@ -1,0 +1,42 @@
+{
+  "startedAt": "2026-04-02T00:45:32.355Z",
+  "outputDir": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export",
+  "completedAt": "2026-04-02T00:50:23.100Z",
+  "courses": [
+    {
+      "title": "How to Write a Good Resume",
+      "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/How to Write a Good Resume.md",
+      "lessons": 19
+    },
+    {
+      "title": "Coding Interview Patterns",
+      "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/Coding Interview Patterns.md",
+      "lessons": 7
+    },
+    {
+      "title": "System Design Interview",
+      "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/System Design Interview.md",
+      "lessons": 31
+    },
+    {
+      "title": "Object-Oriented Design Interview",
+      "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/Object-Oriented Design Interview.md",
+      "lessons": 14
+    },
+    {
+      "title": "Machine Learning System Design Interview",
+      "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/Machine Learning System Design Interview.md",
+      "lessons": 11
+    },
+    {
+      "title": "Mobile System Design Interview",
+      "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/Mobile System Design Interview.md",
+      "lessons": 11
+    },
+    {
+      "title": "Generative AI System Design Interview",
+      "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/Generative AI System Design Interview.md",
+      "lessons": 11
+    }
+  ]
+}

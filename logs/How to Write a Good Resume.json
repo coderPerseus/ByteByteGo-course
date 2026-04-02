@@ -1,0 +1,213 @@
+{
+  "title": "How to Write a Good Resume",
+  "card": {
+    "position": 1,
+    "title": "How to Write a Good Resume",
+    "text": "13\nLessons\n5,000\nLearners",
+    "lessonsText": "13",
+    "comingSoon": false
+  },
+  "opened": {
+    "url": "https://bytebytego.com/courses/tech-resume/p0-c2-introduction",
+    "courseTitle": "How to Write a Good Resume"
+  },
+  "outline": {
+    "courseTitle": "How to Write a Good Resume",
+    "progress": "",
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Acknowledgements",
+        "path": "/courses/tech-resume/p0-c1-acknowledgements"
+      },
+      {
+        "index": 2,
+        "title": "Introduction",
+        "path": "/courses/tech-resume/p0-c2-introduction"
+      },
+      {
+        "index": 3,
+        "title": "PART 1: RESUMES AND THE HIRING PROCESS",
+        "path": "/courses/tech-resume/p1-c0-resumes-and-the-hiring-process"
+      },
+      {
+        "index": 4,
+        "title": "Chapter 1: Why Resumes and CVs are Important",
+        "path": "/courses/tech-resume/p1-c1-why-resumes-and-cvs-are-important"
+      },
+      {
+        "index": 5,
+        "title": "Chapter 2: The Hiring Pipeline",
+        "path": "/courses/tech-resume/p1-c2-the-hiring-pipeline"
+      },
+      {
+        "index": 6,
+        "title": "PART 2: WRITING THE RESUME",
+        "path": "/courses/tech-resume/p2-c0-writing-the-resume"
+      },
+      {
+        "index": 7,
+        "title": "Chapter 3: Tech Resume Basics",
+        "path": "/courses/tech-resume/p2-c1-tech-resume-basics"
+      },
+      {
+        "index": 8,
+        "title": "Chapter 4: Resume Structure",
+        "path": "/courses/tech-resume/p2-c2-resume-structure"
+      },
+      {
+        "index": 9,
+        "title": "Chapter 5: Standing Out",
+        "path": "/courses/tech-resume/p2-c3-standing-out"
+      },
+      {
+        "index": 10,
+        "title": "Chapter 6: Common Mistakes",
+        "path": "/courses/tech-resume/p2-c4-common-mistakes"
+      },
+      {
+        "index": 11,
+        "title": "Chapter 7: Different Experience Levels, Different Career Paths",
+        "path": "/courses/tech-resume/p2-c5-different-experience-levels-different-career-paths"
+      },
+      {
+        "index": 12,
+        "title": "Chapter 8: Exercises to Polish Your Resume",
+        "path": "/courses/tech-resume/p2-c6-exercises-to-polish-your-resume"
+      },
+      {
+        "index": 13,
+        "title": "Chapter 9: Beyond the Resume",
+        "path": "/courses/tech-resume/p2-c7-beyond-the-resume"
+      },
+      {
+        "index": 14,
+        "title": "PART 3: EXAMPLES AND INSPIRATION",
+        "path": "/courses/tech-resume/p3-c0-examples-and-inspiration"
+      },
+      {
+        "index": 15,
+        "title": "Chapter 10: Good Resume Template Principles",
+        "path": "/courses/tech-resume/p3-c1-good-resume-template-principles"
+      },
+      {
+        "index": 16,
+        "title": "Chapter 11: Resume Templates",
+        "path": "/courses/tech-resume/p3-c2-resume-templates"
+      },
+      {
+        "index": 17,
+        "title": "Chapter 12: Resume Improvement Examples",
+        "path": "/courses/tech-resume/p3-c3-resume-improvement-examples"
+      },
+      {
+        "index": 18,
+        "title": "Chapter 13: Advice for Hiring Managers on Running a Good Screening Process",
+        "path": "/courses/tech-resume/p3-c4-advice-for-hiring-managers-on-running-a-good-screening-process"
+      },
+      {
+        "index": 19,
+        "title": "Conclusion",
+        "path": "/courses/tech-resume/p4-c0-conclusion"
+      }
+    ]
+  },
+  "file": "/Users/zozy/code/personal/auto-flow/temp/bytebytego-course-export/How to Write a Good Resume.md",
+  "lessons": [
+    {
+      "title": "Acknowledgements",
+      "url": "https://bytebytego.com/courses/tech-resume/p0-c1-acknowledgements",
+      "path": "/courses/tech-resume/p0-c1-acknowledgements"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://bytebytego.com/courses/tech-resume/p0-c2-introduction",
+      "path": "/courses/tech-resume/p0-c2-introduction"
+    },
+    {
+      "title": "PART 1: RESUMES AND THE HIRING PROCESS",
+      "url": "https://bytebytego.com/courses/tech-resume/p1-c0-resumes-and-the-hiring-process",
+      "path": "/courses/tech-resume/p1-c0-resumes-and-the-hiring-process"
+    },
+    {
+      "title": "Chapter 1: Why Resumes and CVs are Important",
+      "url": "https://bytebytego.com/courses/tech-resume/p1-c1-why-resumes-and-cvs-are-important",
+      "path": "/courses/tech-resume/p1-c1-why-resumes-and-cvs-are-important"
+    },
+    {
+      "title": "Chapter 2: The Hiring Pipeline",
+      "url": "https://bytebytego.com/courses/tech-resume/p1-c2-the-hiring-pipeline",
+      "path": "/courses/tech-resume/p1-c2-the-hiring-pipeline"
+    },
+    {
+      "title": "PART 2: WRITING THE RESUME",
+      "url": "https://bytebytego.com/courses/tech-resume/p2-c0-writing-the-resume",
+      "path": "/courses/tech-resume/p2-c0-writing-the-resume"
+    },
+    {
+      "title": "Chapter 3: Tech Resume Basics",
+      "url": "https://bytebytego.com/courses/tech-resume/p2-c1-tech-resume-basics",
+      "path": "/courses/tech-resume/p2-c1-tech-resume-basics"
+    },
+    {
+      "title": "Chapter 4: Resume Structure",
+      "url": "https://bytebytego.com/courses/tech-resume/p2-c2-resume-structure",
+      "path": "/courses/tech-resume/p2-c2-resume-structure"
+    },
+    {
+      "title": "Chapter 5: Standing Out",
+      "url": "https://bytebytego.com/courses/tech-resume/p2-c3-standing-out",
+      "path": "/courses/tech-resume/p2-c3-standing-out"
+    },
+    {
+      "title": "Chapter 6: Common Mistakes",
+      "url": "https://bytebytego.com/courses/tech-resume/p2-c4-common-mistakes",
+      "path": "/courses/tech-resume/p2-c4-common-mistakes"
+    },
+    {
+      "title": "Chapter 7: Different Experience Levels, Different Career Paths",
+      "url": "https://bytebytego.com/courses/tech-resume/p2-c5-different-experience-levels-different-career-paths",
+      "path": "/courses/tech-resume/p2-c5-different-experience-levels-different-career-paths"
+    },
+    {
+      "title": "Chapter 8: Exercises to Polish Your Resume",
+      "url": "https://bytebytego.com/courses/tech-resume/p2-c6-exercises-to-polish-your-resume",
+      "path": "/courses/tech-resume/p2-c6-exercises-to-polish-your-resume"
+    },
+    {
+      "title": "Chapter 9: Beyond the Resume",
+      "url": "https://bytebytego.com/courses/tech-resume/p2-c7-beyond-the-resume",
+      "path": "/courses/tech-resume/p2-c7-beyond-the-resume"
+    },
+    {
+      "title": "PART 3: EXAMPLES AND INSPIRATION",
+      "url": "https://bytebytego.com/courses/tech-resume/p3-c0-examples-and-inspiration",
+      "path": "/courses/tech-resume/p3-c0-examples-and-inspiration"
+    },
+    {
+      "title": "Chapter 10: Good Resume Template Principles",
+      "url": "https://bytebytego.com/courses/tech-resume/p3-c1-good-resume-template-principles",
+      "path": "/courses/tech-resume/p3-c1-good-resume-template-principles"
+    },
+    {
+      "title": "Chapter 11: Resume Templates",
+      "url": "https://bytebytego.com/courses/tech-resume/p3-c2-resume-templates",
+      "path": "/courses/tech-resume/p3-c2-resume-templates"
+    },
+    {
+      "title": "Chapter 12: Resume Improvement Examples",
+      "url": "https://bytebytego.com/courses/tech-resume/p3-c3-resume-improvement-examples",
+      "path": "/courses/tech-resume/p3-c3-resume-improvement-examples"
+    },
+    {
+      "title": "Chapter 13: Advice for Hiring Managers on Running a Good Screening Process",
+      "url": "https://bytebytego.com/courses/tech-resume/p3-c4-advice-for-hiring-managers-on-running-a-good-screening-process",
+      "path": "/courses/tech-resume/p3-c4-advice-for-hiring-managers-on-running-a-good-screening-process"
+    },
+    {
+      "title": "Conclusion",
+      "url": "https://bytebytego.com/courses/tech-resume/p4-c0-conclusion",
+      "path": "/courses/tech-resume/p4-c0-conclusion"
+    }
+  ]
+}

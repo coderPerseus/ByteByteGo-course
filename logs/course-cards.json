@@ -1,0 +1,58 @@
+[
+  {
+    "position": 1,
+    "title": "How to Write a Good Resume",
+    "text": "13\nLessons\n5,000\nLearners",
+    "lessonsText": "13",
+    "comingSoon": false
+  },
+  {
+    "position": 2,
+    "title": "Coding Interview Patterns",
+    "text": "101\nLessons\n10,000\nLearners",
+    "lessonsText": "101",
+    "comingSoon": false
+  },
+  {
+    "position": 3,
+    "title": "System Design Interview",
+    "text": "30\nLessons\n250,000\nLearners",
+    "lessonsText": "30",
+    "comingSoon": false
+  },
+  {
+    "position": 4,
+    "title": "Behavioral Interview",
+    "text": "15\nLessons\n10\nLearners\nComing Soon",
+    "lessonsText": "15",
+    "comingSoon": true
+  },
+  {
+    "position": 5,
+    "title": "Object-Oriented Design Interview",
+    "text": "14\nLessons\n5,000\nLearners",
+    "lessonsText": "14",
+    "comingSoon": false
+  },
+  {
+    "position": 6,
+    "title": "Machine Learning System Design Interview",
+    "text": "11\nLessons\n25,000\nLearners",
+    "lessonsText": "11",
+    "comingSoon": false
+  },
+  {
+    "position": 7,
+    "title": "Mobile System Design Interview",
+    "text": "11\nLessons\n1,000\nLearners",
+    "lessonsText": "11",
+    "comingSoon": false
+  },
+  {
+    "position": 8,
+    "title": "Generative AI System Design Interview",
+    "text": "11\nLessons\n10,000\nLearners",
+    "lessonsText": "11",
+    "comingSoon": false
+  }
+]
